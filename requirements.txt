@@ -1,0 +1,10 @@
+openai==1.76.0
+google-genai==1.12.1
+ollama==0.4.8
+gradio==5.29.0
+chromadb==1.0.7
+langchain==0.3.25
+langchain-community==0.3.23
+pypdf==5.4.0
+black
+sentence-transformers==4.1.0
